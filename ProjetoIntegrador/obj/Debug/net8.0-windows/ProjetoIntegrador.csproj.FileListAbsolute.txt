@@ -40,3 +40,4 @@ C:\Users\alex.slima14\source\repos\ProjetoIntegrador\ProjetoIntegrador\obj\Debug
 C:\Users\alex.slima14\source\repos\ProjetoIntegrador\ProjetoIntegrador\obj\Debug\net8.0-windows\ProjetoIntegrador.menuCardPersonalizado.resources
 C:\Users\alex.slima14\source\repos\ProjetoIntegrador\ProjetoIntegrador\obj\Debug\net8.0-windows\ProjetoIntegrador.controleProduto.resources
 C:\Users\alex.slima14\source\repos\ProjetoIntegrador\ProjetoIntegrador\obj\Debug\net8.0-windows\ProjetoIntegrador.Controles.Estoque.resources
+C:\Users\alex.slima14\source\repos\ProjetoIntegrador\ProjetoIntegrador\obj\Debug\net8.0-windows\ProjetoIntegrador.PainelEstoque.resources

@@ -1,0 +1,291 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alex.slima14\\source\\repos\\ProjetoIntegrador\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E99AC95-0BE0-4D3D-8C1A-FA5DFDECD99C}|ProjetoIntegrador\\ProjetoIntegrador.csproj|c:\\users\\alex.slima14\\source\\repos\\projetointegrador\\projetointegrador\\dal\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E99AC95-0BE0-4D3D-8C1A-FA5DFDECD99C}|ProjetoIntegrador\\ProjetoIntegrador.csproj|solutionrelative:projetointegrador\\dal\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E99AC95-0BE0-4D3D-8C1A-FA5DFDECD99C}|ProjetoIntegrador\\ProjetoIntegrador.csproj|c:\\users\\alex.slima14\\source\\repos\\projetointegrador\\projetointegrador\\controles\\estoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E99AC95-0BE0-4D3D-8C1A-FA5DFDECD99C}|ProjetoIntegrador\\ProjetoIntegrador.csproj|solutionrelative:projetointegrador\\controles\\estoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E99AC95-0BE0-4D3D-8C1A-FA5DFDECD99C}|ProjetoIntegrador\\ProjetoIntegrador.csproj|C:\\Users\\alex.slima14\\source\\repos\\ProjetoIntegrador\\projetointegrador\\controles\\estoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E99AC95-0BE0-4D3D-8C1A-FA5DFDECD99C}|ProjetoIntegrador\\ProjetoIntegrador.csproj|solutionrelative:projetointegrador\\controles\\estoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E99AC95-0BE0-4D3D-8C1A-FA5DFDECD99C}|ProjetoIntegrador\\ProjetoIntegrador.csproj|c:\\users\\alex.slima14\\source\\repos\\projetointegrador\\projetointegrador\\dal\\consultaprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E99AC95-0BE0-4D3D-8C1A-FA5DFDECD99C}|ProjetoIntegrador\\ProjetoIntegrador.csproj|solutionrelative:projetointegrador\\dal\\consultaprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E99AC95-0BE0-4D3D-8C1A-FA5DFDECD99C}|ProjetoIntegrador\\ProjetoIntegrador.csproj|c:\\users\\alex.slima14\\source\\repos\\projetointegrador\\projetointegrador\\dal\\consultartumas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E99AC95-0BE0-4D3D-8C1A-FA5DFDECD99C}|ProjetoIntegrador\\ProjetoIntegrador.csproj|solutionrelative:projetointegrador\\dal\\consultartumas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E99AC95-0BE0-4D3D-8C1A-FA5DFDECD99C}|ProjetoIntegrador\\ProjetoIntegrador.csproj|c:\\users\\alex.slima14\\source\\repos\\projetointegrador\\projetointegrador\\controles\\estoque.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E99AC95-0BE0-4D3D-8C1A-FA5DFDECD99C}|ProjetoIntegrador\\ProjetoIntegrador.csproj|solutionrelative:projetointegrador\\controles\\estoque.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E99AC95-0BE0-4D3D-8C1A-FA5DFDECD99C}|ProjetoIntegrador\\ProjetoIntegrador.csproj|c:\\users\\alex.slima14\\source\\repos\\projetointegrador\\projetointegrador\\dto\\produtodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E99AC95-0BE0-4D3D-8C1A-FA5DFDECD99C}|ProjetoIntegrador\\ProjetoIntegrador.csproj|solutionrelative:projetointegrador\\dto\\produtodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E99AC95-0BE0-4D3D-8C1A-FA5DFDECD99C}|ProjetoIntegrador\\ProjetoIntegrador.csproj|c:\\users\\alex.slima14\\source\\repos\\projetointegrador\\projetointegrador\\dal\\consultaprofessores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E99AC95-0BE0-4D3D-8C1A-FA5DFDECD99C}|ProjetoIntegrador\\ProjetoIntegrador.csproj|solutionrelative:projetointegrador\\dal\\consultaprofessores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E99AC95-0BE0-4D3D-8C1A-FA5DFDECD99C}|ProjetoIntegrador\\ProjetoIntegrador.csproj|C:\\Users\\alex.slima14\\source\\repos\\ProjetoIntegrador\\projetointegrador\\form_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E99AC95-0BE0-4D3D-8C1A-FA5DFDECD99C}|ProjetoIntegrador\\ProjetoIntegrador.csproj|solutionrelative:projetointegrador\\form_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E99AC95-0BE0-4D3D-8C1A-FA5DFDECD99C}|ProjetoIntegrador\\ProjetoIntegrador.csproj|c:\\users\\alex.slima14\\source\\repos\\projetointegrador\\projetointegrador\\form_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E99AC95-0BE0-4D3D-8C1A-FA5DFDECD99C}|ProjetoIntegrador\\ProjetoIntegrador.csproj|solutionrelative:projetointegrador\\form_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E99AC95-0BE0-4D3D-8C1A-FA5DFDECD99C}|ProjetoIntegrador\\ProjetoIntegrador.csproj|c:\\users\\alex.slima14\\source\\repos\\projetointegrador\\projetointegrador\\menucardpersonalizado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E99AC95-0BE0-4D3D-8C1A-FA5DFDECD99C}|ProjetoIntegrador\\ProjetoIntegrador.csproj|solutionrelative:projetointegrador\\menucardpersonalizado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E99AC95-0BE0-4D3D-8C1A-FA5DFDECD99C}|ProjetoIntegrador\\ProjetoIntegrador.csproj|C:\\Users\\alex.slima14\\source\\repos\\ProjetoIntegrador\\projetointegrador\\controles\\cardproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E99AC95-0BE0-4D3D-8C1A-FA5DFDECD99C}|ProjetoIntegrador\\ProjetoIntegrador.csproj|solutionrelative:projetointegrador\\controles\\cardproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E99AC95-0BE0-4D3D-8C1A-FA5DFDECD99C}|ProjetoIntegrador\\ProjetoIntegrador.csproj|C:\\Users\\alex.slima14\\source\\repos\\ProjetoIntegrador\\projetointegrador\\controleproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E99AC95-0BE0-4D3D-8C1A-FA5DFDECD99C}|ProjetoIntegrador\\ProjetoIntegrador.csproj|solutionrelative:projetointegrador\\controleproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E99AC95-0BE0-4D3D-8C1A-FA5DFDECD99C}|ProjetoIntegrador\\ProjetoIntegrador.csproj|c:\\users\\alex.slima14\\source\\repos\\projetointegrador\\projetointegrador\\controleproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E99AC95-0BE0-4D3D-8C1A-FA5DFDECD99C}|ProjetoIntegrador\\ProjetoIntegrador.csproj|solutionrelative:projetointegrador\\controleproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E99AC95-0BE0-4D3D-8C1A-FA5DFDECD99C}|ProjetoIntegrador\\ProjetoIntegrador.csproj|c:\\users\\alex.slima14\\source\\repos\\projetointegrador\\projetointegrador\\controles\\cardproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E99AC95-0BE0-4D3D-8C1A-FA5DFDECD99C}|ProjetoIntegrador\\ProjetoIntegrador.csproj|solutionrelative:projetointegrador\\controles\\cardproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E99AC95-0BE0-4D3D-8C1A-FA5DFDECD99C}|ProjetoIntegrador\\ProjetoIntegrador.csproj|c:\\users\\alex.slima14\\source\\repos\\projetointegrador\\projetointegrador\\controleproduto.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E99AC95-0BE0-4D3D-8C1A-FA5DFDECD99C}|ProjetoIntegrador\\ProjetoIntegrador.csproj|solutionrelative:projetointegrador\\controleproduto.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E99AC95-0BE0-4D3D-8C1A-FA5DFDECD99C}|ProjetoIntegrador\\ProjetoIntegrador.csproj|C:\\Users\\alex.slima14\\source\\repos\\ProjetoIntegrador\\projetointegrador\\menucardpersonalizado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E99AC95-0BE0-4D3D-8C1A-FA5DFDECD99C}|ProjetoIntegrador\\ProjetoIntegrador.csproj|solutionrelative:projetointegrador\\menucardpersonalizado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Conexao.cs",
+              "DocumentMoniker": "C:\\Users\\alex.slima14\\source\\repos\\ProjetoIntegrador\\ProjetoIntegrador\\DAL\\Conexao.cs",
+              "RelativeDocumentMoniker": "ProjetoIntegrador\\DAL\\Conexao.cs",
+              "ToolTip": "C:\\Users\\alex.slima14\\source\\repos\\ProjetoIntegrador\\ProjetoIntegrador\\DAL\\Conexao.cs",
+              "RelativeToolTip": "ProjetoIntegrador\\DAL\\Conexao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T16:34:00.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Estoque.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\alex.slima14\\source\\repos\\ProjetoIntegrador\\ProjetoIntegrador\\Controles\\Estoque.Designer.cs",
+              "RelativeDocumentMoniker": "ProjetoIntegrador\\Controles\\Estoque.Designer.cs",
+              "ToolTip": "C:\\Users\\alex.slima14\\source\\repos\\ProjetoIntegrador\\ProjetoIntegrador\\Controles\\Estoque.Designer.cs",
+              "RelativeToolTip": "ProjetoIntegrador\\Controles\\Estoque.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T19:39:20.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProdutoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\alex.slima14\\source\\repos\\ProjetoIntegrador\\ProjetoIntegrador\\DTO\\ProdutoDTO.cs",
+              "RelativeDocumentMoniker": "ProjetoIntegrador\\DTO\\ProdutoDTO.cs",
+              "ToolTip": "C:\\Users\\alex.slima14\\source\\repos\\ProjetoIntegrador\\ProjetoIntegrador\\DTO\\ProdutoDTO.cs",
+              "RelativeToolTip": "ProjetoIntegrador\\DTO\\ProdutoDTO.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T19:34:28.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConsultarTumas.cs",
+              "DocumentMoniker": "C:\\Users\\alex.slima14\\source\\repos\\ProjetoIntegrador\\ProjetoIntegrador\\DAL\\ConsultarTumas.cs",
+              "RelativeDocumentMoniker": "ProjetoIntegrador\\DAL\\ConsultarTumas.cs",
+              "ToolTip": "C:\\Users\\alex.slima14\\source\\repos\\ProjetoIntegrador\\ProjetoIntegrador\\DAL\\ConsultarTumas.cs",
+              "RelativeToolTip": "ProjetoIntegrador\\DAL\\ConsultarTumas.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T19:34:07.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConsultaProfessores.cs",
+              "DocumentMoniker": "C:\\Users\\alex.slima14\\source\\repos\\ProjetoIntegrador\\ProjetoIntegrador\\DAL\\ConsultaProfessores.cs",
+              "RelativeDocumentMoniker": "ProjetoIntegrador\\DAL\\ConsultaProfessores.cs",
+              "ToolTip": "C:\\Users\\alex.slima14\\source\\repos\\ProjetoIntegrador\\ProjetoIntegrador\\DAL\\ConsultaProfessores.cs",
+              "RelativeToolTip": "ProjetoIntegrador\\DAL\\ConsultaProfessores.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T19:34:04.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Estoque.cs",
+              "DocumentMoniker": "C:\\Users\\alex.slima14\\source\\repos\\ProjetoIntegrador\\ProjetoIntegrador\\Controles\\Estoque.cs",
+              "RelativeDocumentMoniker": "ProjetoIntegrador\\Controles\\Estoque.cs",
+              "ToolTip": "C:\\Users\\alex.slima14\\source\\repos\\ProjetoIntegrador\\ProjetoIntegrador\\Controles\\Estoque.cs",
+              "RelativeToolTip": "ProjetoIntegrador\\Controles\\Estoque.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T19:28:36.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Estoque.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\alex.slima14\\source\\repos\\ProjetoIntegrador\\ProjetoIntegrador\\Controles\\Estoque.cs",
+              "RelativeDocumentMoniker": "ProjetoIntegrador\\Controles\\Estoque.cs",
+              "ToolTip": "C:\\Users\\alex.slima14\\source\\repos\\ProjetoIntegrador\\ProjetoIntegrador\\Controles\\Estoque.cs [Projeto]",
+              "RelativeToolTip": "ProjetoIntegrador\\Controles\\Estoque.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T19:16:52.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form_Menu.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\alex.slima14\\source\\repos\\ProjetoIntegrador\\ProjetoIntegrador\\Form_Menu.cs",
+              "RelativeDocumentMoniker": "ProjetoIntegrador\\Form_Menu.cs",
+              "ToolTip": "C:\\Users\\alex.slima14\\source\\repos\\ProjetoIntegrador\\ProjetoIntegrador\\Form_Menu.cs [Projeto]",
+              "RelativeToolTip": "ProjetoIntegrador\\Form_Menu.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T18:52:36.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConsultaProdutos.cs",
+              "DocumentMoniker": "C:\\Users\\alex.slima14\\source\\repos\\ProjetoIntegrador\\ProjetoIntegrador\\DAL\\ConsultaProdutos.cs",
+              "RelativeDocumentMoniker": "ProjetoIntegrador\\DAL\\ConsultaProdutos.cs",
+              "ToolTip": "C:\\Users\\alex.slima14\\source\\repos\\ProjetoIntegrador\\ProjetoIntegrador\\DAL\\ConsultaProdutos.cs",
+              "RelativeToolTip": "ProjetoIntegrador\\DAL\\ConsultaProdutos.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAcwFIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T18:18:06.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CardProduto.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\alex.slima14\\source\\repos\\ProjetoIntegrador\\ProjetoIntegrador\\Controles\\CardProduto.cs",
+              "RelativeDocumentMoniker": "ProjetoIntegrador\\Controles\\CardProduto.cs",
+              "ToolTip": "C:\\Users\\alex.slima14\\source\\repos\\ProjetoIntegrador\\ProjetoIntegrador\\Controles\\CardProduto.cs [Projeto]",
+              "RelativeToolTip": "ProjetoIntegrador\\Controles\\CardProduto.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T17:40:27.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "controleProduto.cs",
+              "DocumentMoniker": "C:\\Users\\alex.slima14\\source\\repos\\ProjetoIntegrador\\ProjetoIntegrador\\controleProduto.cs",
+              "RelativeDocumentMoniker": "ProjetoIntegrador\\controleProduto.cs",
+              "ToolTip": "C:\\Users\\alex.slima14\\source\\repos\\ProjetoIntegrador\\ProjetoIntegrador\\controleProduto.cs",
+              "RelativeToolTip": "ProjetoIntegrador\\controleProduto.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAmwBgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T17:59:15.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "controleProduto.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\alex.slima14\\source\\repos\\ProjetoIntegrador\\ProjetoIntegrador\\controleProduto.cs",
+              "RelativeDocumentMoniker": "ProjetoIntegrador\\controleProduto.cs",
+              "ToolTip": "C:\\Users\\alex.slima14\\source\\repos\\ProjetoIntegrador\\ProjetoIntegrador\\controleProduto.cs [Projeto]",
+              "RelativeToolTip": "ProjetoIntegrador\\controleProduto.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T17:26:15.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form_Menu.cs",
+              "DocumentMoniker": "C:\\Users\\alex.slima14\\source\\repos\\ProjetoIntegrador\\ProjetoIntegrador\\Form_Menu.cs",
+              "RelativeDocumentMoniker": "ProjetoIntegrador\\Form_Menu.cs",
+              "ToolTip": "C:\\Users\\alex.slima14\\source\\repos\\ProjetoIntegrador\\ProjetoIntegrador\\Form_Menu.cs",
+              "RelativeToolTip": "ProjetoIntegrador\\Form_Menu.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAmwGQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T17:33:07.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "menuCardPersonalizado.cs",
+              "DocumentMoniker": "C:\\Users\\alex.slima14\\source\\repos\\ProjetoIntegrador\\ProjetoIntegrador\\menuCardPersonalizado.cs",
+              "RelativeDocumentMoniker": "ProjetoIntegrador\\menuCardPersonalizado.cs",
+              "ToolTip": "C:\\Users\\alex.slima14\\source\\repos\\ProjetoIntegrador\\ProjetoIntegrador\\menuCardPersonalizado.cs",
+              "RelativeToolTip": "ProjetoIntegrador\\menuCardPersonalizado.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAkwCEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T17:50:27.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CardProduto.cs",
+              "DocumentMoniker": "C:\\Users\\alex.slima14\\source\\repos\\ProjetoIntegrador\\ProjetoIntegrador\\Controles\\CardProduto.cs",
+              "RelativeDocumentMoniker": "ProjetoIntegrador\\Controles\\CardProduto.cs",
+              "ToolTip": "C:\\Users\\alex.slima14\\source\\repos\\ProjetoIntegrador\\ProjetoIntegrador\\Controles\\CardProduto.cs",
+              "RelativeToolTip": "ProjetoIntegrador\\Controles\\CardProduto.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAQwDwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T17:44:12.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "controleProduto.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\alex.slima14\\source\\repos\\ProjetoIntegrador\\ProjetoIntegrador\\controleProduto.Designer.cs",
+              "RelativeDocumentMoniker": "ProjetoIntegrador\\controleProduto.Designer.cs",
+              "ToolTip": "C:\\Users\\alex.slima14\\source\\repos\\ProjetoIntegrador\\ProjetoIntegrador\\controleProduto.Designer.cs",
+              "RelativeToolTip": "ProjetoIntegrador\\controleProduto.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T20:05:07.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "menuCardPersonalizado.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\alex.slima14\\source\\repos\\ProjetoIntegrador\\ProjetoIntegrador\\menuCardPersonalizado.cs",
+              "RelativeDocumentMoniker": "ProjetoIntegrador\\menuCardPersonalizado.cs",
+              "ToolTip": "C:\\Users\\alex.slima14\\source\\repos\\ProjetoIntegrador\\ProjetoIntegrador\\menuCardPersonalizado.cs [Projeto]",
+              "RelativeToolTip": "ProjetoIntegrador\\menuCardPersonalizado.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T17:49:20.84Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

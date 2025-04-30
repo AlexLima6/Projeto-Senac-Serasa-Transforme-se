@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{4E99AC95-0BE0-4D3D-8C1A-FA5DFDECD99C}|ProjetoIntegrador\\ProjetoIntegrador.csproj|solutionrelative:projetointegrador\\controleclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E99AC95-0BE0-4D3D-8C1A-FA5DFDECD99C}|ProjetoIntegrador\\ProjetoIntegrador.csproj|c:\\users\\matheus.bogirotto\\desktop\\projeto-senac-serasa-transforme-se\\projetointegrador\\controleclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{4E99AC95-0BE0-4D3D-8C1A-FA5DFDECD99C}|ProjetoIntegrador\\ProjetoIntegrador.csproj|C:\\Users\\matheus.bogirotto\\Desktop\\Projeto-Senac-Serasa-Transforme-se\\projetointegrador\\controleclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4E99AC95-0BE0-4D3D-8C1A-FA5DFDECD99C}|ProjetoIntegrador\\ProjetoIntegrador.csproj|solutionrelative:projetointegrador\\controleclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "ProjetoIntegrador\\controleClientes.cs",
               "ToolTip": "C:\\Users\\matheus.bogirotto\\Desktop\\Projeto-Senac-Serasa-Transforme-se\\ProjetoIntegrador\\controleClientes.cs",
               "RelativeToolTip": "ProjetoIntegrador\\controleClientes.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAvwC0AAABHAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAEwC4AAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-30T18:30:12.392Z",
               "EditorCaption": ""
@@ -42,8 +42,7 @@
               "ToolTip": "C:\\Users\\matheus.bogirotto\\Desktop\\Projeto-Senac-Serasa-Transforme-se\\ProjetoIntegrador\\controleClientes.cs [Projeto]",
               "RelativeToolTip": "ProjetoIntegrador\\controleClientes.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T18:30:02.713Z",
-              "EditorCaption": " [Projeto]"
+              "WhenOpened": "2025-04-30T18:30:02.713Z"
             }
           ]
         }

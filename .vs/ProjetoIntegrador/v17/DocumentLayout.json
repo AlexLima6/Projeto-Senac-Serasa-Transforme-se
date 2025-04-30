@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\matheus.bogirotto\\Desktop\\Projeto-Senac-Serasa-Transforme-se\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E99AC95-0BE0-4D3D-8C1A-FA5DFDECD99C}|ProjetoIntegrador\\ProjetoIntegrador.csproj|c:\\users\\matheus.bogirotto\\desktop\\projeto-senac-serasa-transforme-se\\projetointegrador\\controleclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E99AC95-0BE0-4D3D-8C1A-FA5DFDECD99C}|ProjetoIntegrador\\ProjetoIntegrador.csproj|solutionrelative:projetointegrador\\controleclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E99AC95-0BE0-4D3D-8C1A-FA5DFDECD99C}|ProjetoIntegrador\\ProjetoIntegrador.csproj|c:\\users\\matheus.bogirotto\\desktop\\projeto-senac-serasa-transforme-se\\projetointegrador\\controleclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E99AC95-0BE0-4D3D-8C1A-FA5DFDECD99C}|ProjetoIntegrador\\ProjetoIntegrador.csproj|solutionrelative:projetointegrador\\controleclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "controleClientes.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.bogirotto\\Desktop\\Projeto-Senac-Serasa-Transforme-se\\ProjetoIntegrador\\controleClientes.cs",
+              "RelativeDocumentMoniker": "ProjetoIntegrador\\controleClientes.cs",
+              "ToolTip": "C:\\Users\\matheus.bogirotto\\Desktop\\Projeto-Senac-Serasa-Transforme-se\\ProjetoIntegrador\\controleClientes.cs",
+              "RelativeToolTip": "ProjetoIntegrador\\controleClientes.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAvwC0AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T18:30:12.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "controleClientes.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\matheus.bogirotto\\Desktop\\Projeto-Senac-Serasa-Transforme-se\\ProjetoIntegrador\\controleClientes.cs",
+              "RelativeDocumentMoniker": "ProjetoIntegrador\\controleClientes.cs",
+              "ToolTip": "C:\\Users\\matheus.bogirotto\\Desktop\\Projeto-Senac-Serasa-Transforme-se\\ProjetoIntegrador\\controleClientes.cs [Projeto]",
+              "RelativeToolTip": "ProjetoIntegrador\\controleClientes.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T18:30:02.713Z",
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

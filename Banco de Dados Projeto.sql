@@ -89,7 +89,10 @@ INSERT INTO tb_produtos(nome, valor, url_imagem, id_categoria) VALUES
 
 select * from tb_categoria;
 update tb_produto set descricao = " " where id_produto > 0;
-INSERT INTO tb_produtos(nome, valor, url_imagem, id_categoria) VALUES
+
+
+/*INSERT INTO tb_produtos(nome, valor, url_imagem, id_categoria) VALUES
+	("Teste", 00.00, "Teste", 0)*/
  
 SELECT * FROM tb_produtos;
 SELECT * FROM tb_categoria;

@@ -49,22 +49,19 @@ INSERT INTO tb_produtos(nome, valor, url_imagem, id_categoria) VALUES
 ("Pão Parmesão", 5.00, "https://raw.githubusercontent.com/AlexLima6/Projeto-Senac-Serasa-Transforme-se/refs/heads/main/imagensprojetointegrador/Pao%20Parmesao.jpg", 1),
 ("Baguete", 4.50, "https://raw.githubusercontent.com/AlexLima6/Projeto-Senac-Serasa-Transforme-se/refs/heads/main/imagensprojetointegrador/Pao%20baguete.jpg", 1);
  
-INSERT INTO tb_produtos(nome, valor, url_imagem, id_categoria) VALUES
+
 ("Frango Teriyaki", 6.00, "https://raw.githubusercontent.com/AlexLima6/Projeto-Senac-Serasa-Transforme-se/refs/heads/main/imagensprojetointegrador/Chicken%20teriyaki.jpg", 2),
 ("Carne Moída", 6.00, "https://raw.githubusercontent.com/AlexLima6/Projeto-Senac-Serasa-Transforme-se/refs/heads/main/imagensprojetointegrador/carne-moida.jpg", 2),
 ("Churrasco", 12.00 ,"https://raw.githubusercontent.com/AlexLima6/Projeto-Senac-Serasa-Transforme-se/refs/heads/main/imagensprojetointegrador/Bife%20churrasco.jpg", 2),
 ("Bife de Peixe", 8.00, "https://raw.githubusercontent.com/AlexLima6/Projeto-Senac-Serasa-Transforme-se/refs/heads/main/imagensprojetointegrador/file%20de%20peixe%20empanado.jpg", 2);
 ("Peixe empanado", 10.00, "https://raw.githubusercontent.com/AlexLima6/Projeto-Senac-Serasa-Transforme-se/refs/heads/main/imagensprojetointegrador/peixe%20empanado.jpg, 2")
 	
-INSERT INTO tb_produtos(nome, valor, url_imagem, id_categoria) VALUES
+
 ("Cheddar", 6.00, "https://raw.githubusercontent.com/AlexLima6/Projeto-Senac-Serasa-Transforme-se/refs/heads/main/imagensprojetointegrador/chedar.jpg", 3),
 ("Gouda", 5.00, "https://raw.githubusercontent.com/AlexLima6/Projeto-Senac-Serasa-Transforme-se/refs/heads/main/imagensprojetointegrador/Gouda.jpg", 3),
 ("Prato", 4.00, "https://raw.githubusercontent.com/AlexLima6/Projeto-Senac-Serasa-Transforme-se/refs/heads/main/imagensprojetointegrador/Queijo-prato.png", 3),
 ("Mussarela", 3.50, "https://raw.githubusercontent.com/AlexLima6/Projeto-Senac-Serasa-Transforme-se/refs/heads/main/imagensprojetointegrador/queijo-mussarela.jpg", 3);
  
-select * from tb_categoria;
-update tb_produto set descricao = " " where id_produto > 0;
-INSERT INTO tb_produtos(nome, valor, url_imagem, id_categoria) VALUES
 ("Alface", 2.00, "https://terraadubada.com.br/wp-content/uploads/2023/10/Alface-Crespa-Organico-510x510.jpg", 4),
 ("Tomate", 1.50, "https://raw.githubusercontent.com/AlexLima6/Projeto-Senac-Serasa-Transforme-se/refs/heads/main/imagensfaltando/Tomate.jpg", 4),
 ("Cebola", 2.50, "https://raw.githubusercontent.com/AlexLima6/Projeto-Senac-Serasa-Transforme-se/refs/heads/main/imagensprojetointegrador/cebola%20roxa.jpg", 4),
@@ -91,6 +88,10 @@ INSERT INTO tb_produtos(nome, valor, url_imagem, id_categoria) VALUES
 ("Bacon", 5.00, "https://raw.githubusercontent.com/AlexLima6/Projeto-Senac-Serasa-Transforme-se/refs/heads/main/imagensprojetointegrador/Bacon.jpg", 8),
 ("Bacon Bovino", 5.50, "https://raw.githubusercontent.com/AlexLima6/Projeto-Senac-Serasa-Transforme-se/refs/heads/main/imagensprojetointegrador/bacon%20bovino.jpg", 8),
 ("Pastrame", 6.00, "https://raw.githubusercontent.com/AlexLima6/Projeto-Senac-Serasa-Transforme-se/refs/heads/main/imagensprojetointegrador/Pastrami.jpg", 8);
+
+select * from tb_categoria;
+update tb_produto set descricao = " " where id_produto > 0;
+INSERT INTO tb_produtos(nome, valor, url_imagem, id_categoria) VALUES
  
 SELECT * FROM tb_produtos;
 SELECT * FROM tb_categoria;

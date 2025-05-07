@@ -6,7 +6,7 @@ CREATE TABLE tb_clientes(
     nome varchar(50),
     email varchar(50),
     senha varchar(20),
-    endereco varchar(100),
+    endereco varchar(8),
     primary key (id_clientes)
 );
 SELECT * FROM tb_clientes;
@@ -103,10 +103,6 @@ FROM tb_produtos INNER JOIN tb_categoria ON tb_categoria.id_categoria =
 tb_produtos.id_categoria;
  
 SELECT tb_produtos.*, tb_categoria.nome AS 'nome_categoria' FROM tb_produtos INNER JOIN tb_categoria ON tb_categoria.id_categoria = tb_produtos.id_categoria;
- 
-/*SELECT * FROM tb_produtos
-INNER JOIN tb_produtos ON tb_categoria.id_produtos =
-tb_produtos.id_produtos;*/
  
 CREATE TABLE tb_delivery(
 	id_nota int auto_increment,

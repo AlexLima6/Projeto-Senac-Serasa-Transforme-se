@@ -2,12 +2,12 @@ CREATE DATABASE projetointegrador;
 USE projetointegrador;
  
 CREATE TABLE tb_clientes(
-    id_clientes int auto_increment,
-    nome varchar(50),
-    email varchar(50),
-    senha varchar(20),
-    endereco varchar(8),
-    primary key (id_clientes)
+    	id_clientes int auto_increment,
+    	nome varchar(50),
+    	email varchar(50),
+    	senha varchar(20),
+    	endereco varchar(8),
+    	primary key (id_clientes)
 );
 SELECT * FROM tb_clientes;
 SELECT nome AS "Cliente" FROM tb_clientes;
@@ -32,35 +32,33 @@ INSERT INTO tb_categoria(nome) VALUES
  
 
 CREATE TABLE tb_produtos(
-    id_produtos int auto_increment,
-    nome varchar(20),
-    descricao varchar(100),
-    valor decimal(6, 2),
-    url_imagem varchar (150),
-    blob_image mediumblob,
+    	id_produtos int auto_increment,
+    	nome varchar(20),
+    	descricao varchar(100),
+    	valor decimal(6, 2),
+    	url_imagem varchar (150),
+    	blob_image mediumblob,
 	id_categoria int,
-    foreign key (id_categoria) references tb_categoria(id_categoria),
-    primary key (id_produtos)
+    	foreign key (id_categoria) references tb_categoria(id_categoria),
+    	primary key (id_produtos)
 );
  
 INSERT INTO tb_produtos(nome, valor, url_imagem, id_categoria) VALUES
 ("Ciabatta", 4.50, "https://raw.githubusercontent.com/AlexLima6/Projeto-Senac-Serasa-Transforme-se/refs/heads/main/imagensprojetointegrador/P%C3%A3o%20Ciabatta.jpg", 1),
 ("Pão Italiano", 2.00, "https://raw.githubusercontent.com/AlexLima6/Projeto-Senac-Serasa-Transforme-se/refs/heads/main/imagensprojetointegrador/Pao%20Italiano.jpg", 1),
 ("Pão Parmesão", 5.00, "https://raw.githubusercontent.com/AlexLima6/Projeto-Senac-Serasa-Transforme-se/refs/heads/main/imagensprojetointegrador/Pao%20Parmesao.jpg", 1),
-("Baguete", 4.50, "https://raw.githubusercontent.com/AlexLima6/Projeto-Senac-Serasa-Transforme-se/refs/heads/main/imagensprojetointegrador/Pao%20baguete.jpg", 1);
- 
+("Baguete", 4.50, "https://raw.githubusercontent.com/AlexLima6/Projeto-Senac-Serasa-Transforme-se/refs/heads/main/imagensprojetointegrador/Pao%20baguete.jpg", 1),
 
 ("Frango Teriyaki", 6.00, "https://raw.githubusercontent.com/AlexLima6/Projeto-Senac-Serasa-Transforme-se/refs/heads/main/imagensprojetointegrador/Chicken%20teriyaki.jpg", 2),
 ("Carne Moída", 6.00, "https://raw.githubusercontent.com/AlexLima6/Projeto-Senac-Serasa-Transforme-se/refs/heads/main/imagensprojetointegrador/carne-moida.jpg", 2),
 ("Churrasco", 12.00 ,"https://raw.githubusercontent.com/AlexLima6/Projeto-Senac-Serasa-Transforme-se/refs/heads/main/imagensprojetointegrador/Bife%20churrasco.jpg", 2),
-("Bife de Peixe", 8.00, "https://raw.githubusercontent.com/AlexLima6/Projeto-Senac-Serasa-Transforme-se/refs/heads/main/imagensprojetointegrador/file%20de%20peixe%20empanado.jpg", 2);
-("Peixe empanado", 10.00, "https://raw.githubusercontent.com/AlexLima6/Projeto-Senac-Serasa-Transforme-se/refs/heads/main/imagensprojetointegrador/peixe%20empanado.jpg, 2")
-	
+("Bife de Peixe", 8.00, "https://raw.githubusercontent.com/AlexLima6/Projeto-Senac-Serasa-Transforme-se/refs/heads/main/imagensprojetointegrador/file%20de%20peixe%20empanado.jpg", 2),
+("Peixe empanado", 10.00, "https://raw.githubusercontent.com/AlexLima6/Projeto-Senac-Serasa-Transforme-se/refs/heads/main/imagensprojetointegrador/peixe%20empanado.jpg, 2"),
 
 ("Cheddar", 6.00, "https://raw.githubusercontent.com/AlexLima6/Projeto-Senac-Serasa-Transforme-se/refs/heads/main/imagensprojetointegrador/chedar.jpg", 3),
 ("Gouda", 5.00, "https://raw.githubusercontent.com/AlexLima6/Projeto-Senac-Serasa-Transforme-se/refs/heads/main/imagensprojetointegrador/Gouda.jpg", 3),
 ("Prato", 4.00, "https://raw.githubusercontent.com/AlexLima6/Projeto-Senac-Serasa-Transforme-se/refs/heads/main/imagensprojetointegrador/Queijo-prato.png", 3),
-("Mussarela", 3.50, "https://raw.githubusercontent.com/AlexLima6/Projeto-Senac-Serasa-Transforme-se/refs/heads/main/imagensprojetointegrador/queijo-mussarela.jpg", 3);
+("Mussarela", 3.50, "https://raw.githubusercontent.com/AlexLima6/Projeto-Senac-Serasa-Transforme-se/refs/heads/main/imagensprojetointegrador/queijo-mussarela.jpg", 3),
  
 ("Alface", 2.00, "https://terraadubada.com.br/wp-content/uploads/2023/10/Alface-Crespa-Organico-510x510.jpg", 4),
 ("Tomate", 1.50, "https://raw.githubusercontent.com/AlexLima6/Projeto-Senac-Serasa-Transforme-se/refs/heads/main/imagensfaltando/Tomate.jpg", 4),
@@ -106,12 +104,12 @@ SELECT tb_produtos.*, tb_categoria.nome AS 'nome_categoria' FROM tb_produtos INN
  
 CREATE TABLE tb_delivery(
 	id_nota int auto_increment,
-    nome varchar (20),
-    id_produtos int auto_increment,
-    endereco varchar (7),
-    preço decimal (3, 2),
-    primary key (id_nota),
-    foreign key (id_produtos) references tb_produtos(id_produtos)
+    	nome varchar (20),
+    	id_produtos int auto_increment,
+    	endereco varchar (7),
+    	preço decimal (3, 2),
+    	primary key (id_nota),
+    	foreign key (id_produtos) references tb_produtos(id_produtos)
 );
  
 CREATE TABLE tb_nota(
@@ -132,8 +130,8 @@ CREATE TABLE tb_nota(
 	id_produto int auto_increment,
 	quantidade varchar (1),
 	subtotal decimal (3,2),
-    primary key (id_cliente),
-    primary key (id_pedido)
+    	primary key (id_cliente),
+    	primary key (id_pedido)
     
     )
     

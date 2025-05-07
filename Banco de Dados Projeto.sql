@@ -54,7 +54,8 @@ INSERT INTO tb_produtos(nome, valor, url_imagem, id_categoria) VALUES
 ("Carne Moída", 6.00, "https://raw.githubusercontent.com/AlexLima6/Projeto-Senac-Serasa-Transforme-se/refs/heads/main/imagensprojetointegrador/carne-moida.jpg", 2),
 ("Churrasco", 12.00 ,"https://raw.githubusercontent.com/AlexLima6/Projeto-Senac-Serasa-Transforme-se/refs/heads/main/imagensprojetointegrador/Bife%20churrasco.jpg", 2),
 ("Bife de Peixe", 8.00, "https://raw.githubusercontent.com/AlexLima6/Projeto-Senac-Serasa-Transforme-se/refs/heads/main/imagensprojetointegrador/file%20de%20peixe%20empanado.jpg", 2);
- 
+("Peixe empanado", 10.00, "https://raw.githubusercontent.com/AlexLima6/Projeto-Senac-Serasa-Transforme-se/refs/heads/main/imagensprojetointegrador/peixe%20empanado.jpg, 2")
+	
 INSERT INTO tb_produtos(nome, valor, url_imagem, id_categoria) VALUES
 ("Cheddar", 6.00, "https://raw.githubusercontent.com/AlexLima6/Projeto-Senac-Serasa-Transforme-se/refs/heads/main/imagensprojetointegrador/chedar.jpg", 3),
 ("Gouda", 5.00, "https://raw.githubusercontent.com/AlexLima6/Projeto-Senac-Serasa-Transforme-se/refs/heads/main/imagensprojetointegrador/Gouda.jpg", 3),
@@ -89,15 +90,11 @@ INSERT INTO tb_produtos(nome, valor, url_imagem, id_categoria) VALUES
  
 ("Bacon", 5.00, "https://raw.githubusercontent.com/AlexLima6/Projeto-Senac-Serasa-Transforme-se/refs/heads/main/imagensprojetointegrador/Bacon.jpg", 8),
 ("Bacon Bovino", 5.50, "https://raw.githubusercontent.com/AlexLima6/Projeto-Senac-Serasa-Transforme-se/refs/heads/main/imagensprojetointegrador/bacon%20bovino.jpg", 8),
-
-
-
 ("Pastrame", 6.00, "https://raw.githubusercontent.com/AlexLima6/Projeto-Senac-Serasa-Transforme-se/refs/heads/main/imagensprojetointegrador/Pastrami.jpg", 8);
  
 SELECT * FROM tb_produtos;
 SELECT * FROM tb_categoria;
 SELECT * FROM tb_clientes;
-
  
 SELECT tb_produtos.*, tb_categoria.nome AS 'nome_categoria'
 
